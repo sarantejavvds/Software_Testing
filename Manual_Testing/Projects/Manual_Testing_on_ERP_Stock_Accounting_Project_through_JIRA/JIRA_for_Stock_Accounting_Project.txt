@@ -1,0 +1,2 @@
+https://sarantejavvds1-1738321683081.atlassian.net/projects/SCRUM?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.thed.zephyr.je__main-project-page&squad2=true#!/v2/testCycles?projectId=10000
+
