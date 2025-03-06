@@ -1,1 +1,1 @@
-# Software_Testing-Manual_Testing-Projects
+# Software_Testing-Projects
